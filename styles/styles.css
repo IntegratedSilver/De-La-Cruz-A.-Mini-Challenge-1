@@ -54,3 +54,7 @@ card{
   .author img {
     height:2rem;
   }
+
+  h5:is(:hover){
+    color:hsl(47, 88%, 63%);
+  }
